@@ -2,7 +2,7 @@
 
 Expandable List
 
-Description
+Description:
 
 Create an expandable list where clicking on a list item expands or collapses a sub-list. 
 Use event delegation to handle the click events on the parent list element, 
