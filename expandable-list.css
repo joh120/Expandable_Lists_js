@@ -1,0 +1,11 @@
+*{
+    list-style: none;
+}
+
+.Supermarket , .Finance , .Insurance{
+    display: none;
+}
+
+.new {
+    display: block;
+}
