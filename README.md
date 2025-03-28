@@ -11,7 +11,7 @@ and bubbling to toggle the sub-list visibility.
 Instructions
 
 Create an HTML file with an unordered list element containing several list items.
-Each list item should have a title and a sub-list containing some content. The sub-list should be initially hidden with CSS (display: none;).
+Each list item should have a title and a sub-list containinga some content. The sub-list should be initially hidden with CSS (display: none;).
 Use JavaScript to add an event listener to the parent list element, and use event delegation to handle click events on the list items.
 
 When a list item is clicked, toggle the visibility of its sub-list using the classList property to add or remove the hidden class 
